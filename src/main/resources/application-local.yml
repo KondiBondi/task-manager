@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: sa
+    password: StrongPassw0rd
+    url: jdbc:sqlserver://localhost:1433;encrypt=true;trustServerCertificate=true;databaseName=task_manager
+  application:
+    name: task_manager

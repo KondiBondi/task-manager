@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: task-manager
+logging:
+  level:
+    org:
+      hibernate: DEBUG
